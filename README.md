@@ -6,4 +6,4 @@ A Fortran notebook collect the error statement and possible solution.
 
 +SOLUTION: Define or index a variable with wrong dimension. For example, define 1d variable but using 2d index; mistake 1:10 and 1,10.
 ```
-<font color="green"> Some green text </font>
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
