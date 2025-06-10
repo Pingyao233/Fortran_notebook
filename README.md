@@ -15,4 +15,9 @@ A Fortran notebook collect possible error statement and possible solution.
 ## Scope of usage
 1. ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `ERROR` Cannot change attributes of USE-associated symbol at (1)
 
-* ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `SOLUTION`  
+* ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `SOLUTION`
+
+# Code structure
+
+1. ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `ERROR` Undefined symbols for architecture arm64
+* ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `SOLUTION` Check if a variable, function, subroutine is properly linked or not. For example, using a private subroutine in a module and access the subroutine in the main program.
