@@ -15,7 +15,7 @@ A Fortran notebook collect possible error statement and possible solution.
 ## Scope of usage
 1. ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `ERROR` Cannot change attributes of USE-associated symbol at (1)
 
-* ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `SOLUTION`
+* ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `SOLUTION` Variable misuse when linking module and main file. For example, define the same variable in both module and main file.
 
 # Code structure
 
